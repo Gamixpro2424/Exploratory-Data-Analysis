@@ -37,7 +37,7 @@ Ensure you have Python and Jupyter Notebook installed. You can install the requi
     ```
 2. Navigate to the project directory:
     ```sh
-    cd daily-delhi-climate-eda
+    cd Exploratory-Data-Analysis
     ```
 3. Install the required packages:
     ```sh
@@ -83,7 +83,7 @@ This project provided a comprehensive understanding of the Daily Delhi Climate d
 
 ## Acknowledgements
 
-- The dataset was obtained from [source/link].
+- The dataset was obtained from https://www.kaggle.com/datasets/ameliaagustina/dailydelhiclimatetrain-t2.
 - Inspired by various online resources and tutorials on data analysis.
 
 ## License
