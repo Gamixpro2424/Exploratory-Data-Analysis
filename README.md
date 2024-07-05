@@ -33,7 +33,7 @@ Ensure you have Python and Jupyter Notebook installed. You can install the requi
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/daily-delhi-climate-eda.git
+    git clone https://github.com/kevin06055/Exploratory-Data-Analysis.git
     ```
 2. Navigate to the project directory:
     ```sh
@@ -48,7 +48,7 @@ Ensure you have Python and Jupyter Notebook installed. You can install the requi
 
 1. Open the Jupyter Notebook:
     ```sh
-    jupyter notebook EDA_DailyDelhiClimate.ipynb
+    jupyter notebook EDA_Project_(Final).ipynb
     ```
 2. Follow the steps in the notebook to perform the EDA.
 
