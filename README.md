@@ -19,7 +19,7 @@ The dataset contains daily climate records for Delhi, including variables such a
 ## Files in the Repository
 
 - `EDA_DailyDelhiClimate.ipynb`: Jupyter Notebook containing the complete EDA workflow.
-- `dailydelhiclimate.csv`: The dataset used for the analysis (ensure to include the data file if it's not too large, or provide instructions to download it).
+- `DailyDelhiClimateTest.csv`: The dataset used for the analysis (ensure to include the data file if it's not too large, or provide instructions to download it).
 - `requirements.txt`: List of Python packages required to run the analysis.
 - `README.md`: This file, providing an overview of the project.
 
